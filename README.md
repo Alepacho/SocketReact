@@ -25,4 +25,5 @@ npm run dev
 
 ## Полезные ссылки
 https://socket.io/get-started/chat
+
 https://stackoverflow.com/questions/44628363/socket-io-access-control-allow-origin-error
